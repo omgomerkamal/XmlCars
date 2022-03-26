@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version = "1.0"?>
+<!DOCTYPE Cars SYSTEM "Cars.dtd"> 
+<cars>
+	<cars>
+		<name>Ferrari</name>
+		<model>1999</model>
+		<owner>Omer</owner>
+	</cars>
+	<cars>
+		<name>Lamborghini</name>
+		<model>2022</model>
+		<owner>Kamal</owner>
+	</cars>
+	<cars>
+		<name>Aston Martin</name>
+		<model>2012</model>
+		<owner>James</owner>
+	</cars>
+	<cars>
+		<name>Audi</name>
+		<model>2010</model>
+		<owner>Tony</owner>
+	</cars>
+</cars>
